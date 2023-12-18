@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "326602966201",
+    "firebase_url": "https://whip-smart-default-rtdb.firebaseio.com",
+    "project_id": "whip-smart",
+    "storage_bucket": "whip-smart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326602966201:android:2d9f31f6f844393fe7c768",
+        "android_client_info": {
+          "package_name": "gsr.techgium.whipsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326602966201-q1ec7j1g8vvjbs3b3c5skuf1aje85p3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gsr.techgium.whipsmart",
+            "certificate_hash": "3373fb70cc703f7fe7b97f4a5b3a2424e9d78b3f"
+          }
+        },
+        {
+          "client_id": "326602966201-kdnbl5nrgcaos07iqtois8udtk58gql8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAka1jDlvpg0mpLVj3olUDThABXOt8m6cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326602966201-kdnbl5nrgcaos07iqtois8udtk58gql8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326602966201-9a6h04r7nloifajobj82vha66jlmtbg8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "gsr.techgium.whipsmart",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

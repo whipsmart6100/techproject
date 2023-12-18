@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="d828cc7a-3542-4b64-9424-7c8c37f1e158"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="0f10ce89-891d-4678-992f-312155a17a69"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(29.04 0 0 29.04 540 540)"  >
+<circle style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(3,150,228); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  cx="0" cy="0" r="18" />
+</g>
+<g transform="matrix(40.55 0 0 40.55 575.07 556.18)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(247,248,249); fill-rule: evenodd; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-33.5, -29.5)" d="M 35.75 36.5 L 25.25 36.5 C 24.6977 36.5 24.25 36.0523 24.25 35.5 C 24.25 34.9477 24.6977 34.5 25.25 34.5 L 35.75 34.5 C 36.3023 34.5 36.75 34.9477 36.75 35.5 C 36.75 36.0523 36.3023 36.5 35.75 36.5 Z M 24.25 23.5 C 24.25 22.9477 24.6977 22.5 25.25 22.5 L 41.75 22.5 C 42.3023 22.5 42.75 22.9477 42.75 23.5 C 42.75 24.0523 42.3023 24.5 41.75 24.5 L 25.25 24.5 C 24.6977 24.5 24.25 24.0523 24.25 23.5 Z M 25.25 30.5 L 38.75 30.5 C 39.3023 30.5 39.75 30.0523 39.75 29.5 C 39.75 28.9477 39.3023 28.5 38.75 28.5 L 25.25 28.5 C 24.6977 28.5 24.25 28.9477 24.25 29.5 C 24.25 30.0523 24.6977 30.5 25.25 30.5 Z" stroke-linecap="round" />
+</g>
+</svg>
