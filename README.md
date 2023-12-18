@@ -1,6 +1,4 @@
-# whip_smart
 
-Techgium 6100
 
 ## Getting Started
 
